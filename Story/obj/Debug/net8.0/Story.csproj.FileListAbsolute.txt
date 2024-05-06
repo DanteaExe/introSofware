@@ -1,0 +1,15 @@
+/Users/dantealejo/Documents/GitHub/introSofware/Story/bin/Debug/net8.0/Story
+/Users/dantealejo/Documents/GitHub/introSofware/Story/bin/Debug/net8.0/Story.deps.json
+/Users/dantealejo/Documents/GitHub/introSofware/Story/bin/Debug/net8.0/Story.runtimeconfig.json
+/Users/dantealejo/Documents/GitHub/introSofware/Story/bin/Debug/net8.0/Story.dll
+/Users/dantealejo/Documents/GitHub/introSofware/Story/bin/Debug/net8.0/Story.pdb
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.AssemblyInfoInputs.cache
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.AssemblyInfo.cs
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.csproj.CoreCompileInputs.cache
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.sourcelink.json
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.dll
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/refint/Story.dll
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.pdb
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/Story.genruntimeconfig.cache
+/Users/dantealejo/Documents/GitHub/introSofware/Story/obj/Debug/net8.0/ref/Story.dll
